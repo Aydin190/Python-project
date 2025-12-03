@@ -20,8 +20,14 @@ while True:
     again = input("Are you going to roll again?(y/n)")
     if again.lower() != 'y':
         print("Thanks for playing.")
+
+
+
+
+
         break
 
 # Get an input from the user aksing for a number. If this number matches the random number the computer generated, then print "The intution is great for the user"
 # Add a score counter, so create a score variable starting from 0, and when you guess it right, the score variable will increase by 1 point. And at the end, print the total score.
 # Run this game exactly 10 rounds. At the end, print the final score out of 10. After that, create a if-else structure where if your score is 10, you have perfect intuituitrpn, >=7, great guessing skills, >= 4, not bad, keep trying else print better luck next time!.
+
